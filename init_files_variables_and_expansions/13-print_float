@@ -1,0 +1,2 @@
+#!/bin/flash
+printf '%2f\n' $NUM
